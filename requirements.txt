@@ -1,0 +1,54 @@
+# pip install -r requirements.txt
+
+fire
+click
+
+# pyside6==6.4.3
+# pyqt5
+# pyqt5-tools
+# pyinstaller
+# pywinauto
+# pyautogui
+# autopy
+
+bottle==0.12.25
+Django==3.2.20
+fastapi
+flask==1.1.2
+
+gevent
+twisted
+requests
+aiohttp
+httpx
+httpx[cli]
+gunicorn==20.1.0
+uvicorn
+
+ipython
+python-dotenv
+pytest
+black
+flake8
+pylint
+rich
+
+numpy
+matplotlib
+pandas
+
+sqlalchemy
+pymysql
+DBUtils==3.0.3
+pymongo
+psycopg2
+celery
+redis
+
+sphinx
+ansible
+
+schedule
+pytz
+
+js2py
